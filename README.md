@@ -42,4 +42,4 @@ Solutions implemented:
 * Industrial inventory simulation.
 * Relationship "estado" ↔ "realiza" ↔ "mineral" 
 ## Dasboard Preview.
-![Dashboard](images/mining_dashboard.png)
+![Dashboard](mining-metallurgical/images/mining_dashboard.png)
