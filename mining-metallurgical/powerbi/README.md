@@ -1,0 +1,1 @@
+This folder contains the Power BI dashboard used to visualize the distribution of mining and metallurgical activities in Mexico.

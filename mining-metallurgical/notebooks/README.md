@@ -1,0 +1,1 @@
+This folder contains the exploratory and preprocessing notebooks used during the project development.

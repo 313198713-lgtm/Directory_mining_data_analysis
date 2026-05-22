@@ -1,0 +1,1 @@
+This folder contains a dataset from the website ‘https://www.datos.gob.mx/dataset/directorio_mineria_mexicana_servicio_geologico_mexicano_2/resource/74672372-29db-4022-8751-70766d417527’

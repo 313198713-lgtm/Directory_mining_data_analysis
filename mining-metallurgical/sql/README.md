@@ -1,0 +1,1 @@
+This folder contains the relevant queries made during the exploratory analysis.
